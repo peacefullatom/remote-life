@@ -1,50 +1,29 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Best place to get familiar with the remote lifestyle
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Best place to get familiar with the remote lifestyle
+subheading: Take back control of your time.
 mainpitch:
-  title: Why Kaldi
+  title: Why live remote?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    The remote lifestyle allows you to manage your time and presence. You can work at your most productive time from the place that fits you most. Also, you will have the next benefits: spend your time with people that matter, eat healthy food in your taste, keep yourself in shape. You do not need to spend your life in commutes and traffic jams.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  I created this place as a single gateway to remote work and a digital nomad lifestyle.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/livingroom-tray-with-plant-and-game-controllers.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        You can browse online resources dedicated to searching for remote work, or seek the best talents around the world to join your team.
+    - image: /img/hand-logs-in-to-laptop.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Here one will find the extensive list of tools to be productive while working remotely.
+    - image: /img/close-up-of-people-working.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Are you wondering how many companies are fully distributed? You may check out the list of companies matching this criterion.
+    - image: /img/poolside-using-smart-phone.jpg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        In the blog, there is news about remote life and tips for digital nomads.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
