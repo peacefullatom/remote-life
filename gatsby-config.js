@@ -86,6 +86,7 @@ module.exports = {
         sitemap: 'https://remotelife.netlify.com/sitemap.xml',
         policy: [{ userAgent: '*', allow: '/' }]
       }
-    }
+    },
+    `gatsby-plugin-sitemap`
   ]
 };
