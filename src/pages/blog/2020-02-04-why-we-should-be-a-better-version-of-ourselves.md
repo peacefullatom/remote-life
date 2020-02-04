@@ -4,7 +4,7 @@ title: Why we should be a better version of ourselves
 date: 2020-02-04T11:40:39.429Z
 description: Any human activity is a way to express yourself.
 featuredpost: false
-featuredimage: /img/your-limit-is-you-letters.jpg
+featuredimage: /img/one-step-forward-tiles.jpg
 tags:
   - remote
   - work
